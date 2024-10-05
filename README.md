@@ -1,0 +1,1 @@
+Dans ce projet, nous allons travailler sur un dataset qui contient des informations sur les risques cardiovasculaires. Notre objectif est de prédire si un patient est à risque de maladie cardiovasculaire ou non.
